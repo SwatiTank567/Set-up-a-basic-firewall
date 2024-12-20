@@ -1,0 +1,13 @@
+Installing pfSense In this repo, i will demonstrate how to set up pfsense for your home lab. This whole process will be set up on a virtual box and i will be using Ubuntu as the admin system and configuring the pfsense. In this repo, i will create rules in the firewall, configure VPN and monitor the rules.
+
+Requirements :
+
+Virtual box
+Windows 10 installed on the virtual box. 
+pFsense ISO image
+
+Process:
+We need an ISO image for the virtual box. pfSense ISO image can be downloaded from the official page - https://www.pfsense.org/download/
+Select appropriate architecture.
+
+https://www.pfsense.org/
